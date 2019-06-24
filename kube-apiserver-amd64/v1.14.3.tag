@@ -1,0 +1,1 @@
+FROM gcr.io/google-containers/kube-apiserver-amd64@sha256:54522a82a9817396ffd1cbd3e3573c6b21a48885475d5204df81efcbdce56fe2
