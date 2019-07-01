@@ -1,1 +1,1 @@
-docker pull quay.io/calico/node:release-v3.8
+FROM  quay.io/calico/node:release-v3.8

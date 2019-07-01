@@ -1,1 +1,1 @@
-gcr.io/google-containers/kube-controller-manager@sha256:d8dafc4f365d5c5912a48ab54b0cdc75ce16d91c93b62491328f3a26160dfa42
+FROM gcr.io/google-containers/kube-controller-manager@sha256:d8dafc4f365d5c5912a48ab54b0cdc75ce16d91c93b62491328f3a26160dfa42
