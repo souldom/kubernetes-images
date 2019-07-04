@@ -1,0 +1,1 @@
+FROM gcr.io/google-containers/etcd@sha256:17da501f5d2a675be46040422a27b7cc21b8a43895ac998b171db1c346f361f7
