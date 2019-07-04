@@ -1,1 +1,1 @@
-FROM componentgcr.io/google-containers/coredns@sha256:02382353821b12c21b062c59184e227e001079bb13ebd01f9d3270ba0fcbf1e4
+FROM gcr.io/google-containers/coredns@sha256:02382353821b12c21b062c59184e227e001079bb13ebd01f9d3270ba0fcbf1e4
